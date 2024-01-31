@@ -15,13 +15,16 @@ function show() {
 function submit() {
 
     var data = document.querySelector(".text").value;
-    list.push(data);
-    var textarea = document.querySelector("textArea");
+    if(data.length<1){
+        alert("Empty Field")
+    }
+    else{
+        list.push(data);
+        var textarea = document.querySelector("textArea");
+    
+        textarea.value = list.join( "\n");s
 
-    textarea.value = list.join( "\n");
-    count++;
-
-    //console.log(data);
+    }   //console.log(data);
 }
 document.querySelector(".submit").addEventListener("click", submit);
 document.querySelector(".clear").addEventListener("click", show);
