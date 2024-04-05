@@ -63,4 +63,4 @@ Please make sure to follow the [Contributor Covenant](https://www.contributor-co
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the #.
