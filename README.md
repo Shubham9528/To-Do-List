@@ -4,7 +4,7 @@ A simple To-Do List application built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
-- [Introduction]
+- [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
 - [Demo](#demo)
