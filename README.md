@@ -32,7 +32,7 @@ To use the To-Do List application:
 
 ## Demo
 
-A live demo of the application can be found [here](https://shubham9528.github.io/To-Do-List/) (Insert the link to your live demo if available).
+A live demo of the application can be found [here](https://shubham9528.github.io/To-Do-List/).
 
 ## Installation
 
